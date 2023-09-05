@@ -1,0 +1,9 @@
+The important thing about your assignment is the implementation of your hash 
+function. Main duty of the hash function is generating a digestion respect to the 
+input data. In this project, the digestion becomes an index value for your table and 
+the input data is the word that you are indexing. If your hash function is a loose one, 
+the overlapping ratio of the words increase. Then it causes a bad distribution of the 
+indexed words and increases the search time. So we would like to have a hash 
+function such that distributes the input words in a finely manner as much as 
+possible. Briefly, you had better to make a little research on hash functions in order 
+to implement your’s a good one.

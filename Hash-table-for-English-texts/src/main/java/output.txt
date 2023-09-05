@@ -1,0 +1,499 @@
+At 0:  Repeated:3 Location:289
+At 1: picked Repeated:1 Location:198
+At 2: hovered Repeated:1 Location:120
+At 3: 
+At 4: 
+At 5: garden Repeated:1 Location:434
+At 6: caption Repeated:1 Location:76
+At 7: movement Repeated:1 Location:313
+At 8: 
+At 9: 
+At 10: 
+At 11: instinct Repeated:1 Location:296
+At 12: 
+At 13: seemed Repeated:1 Location:39
+At 14: shining Repeated:1 Location:31
+At 15: snooping Repeated:1 Location:140
+At 16: guesswork Repeated:1 Location:259
+At 17: darted Repeated:1 Location:128
+At 18: another Repeated:1 Location:90
+At 19: airstrip Repeated:1 Location:372
+At 20: 
+At 21: 
+At 22: 
+At 23: moreover Repeated:1 Location:202fitfully Repeated:1 Location:97
+At 24: 
+At 25: 
+At 26: 
+At 27: 
+At 28: býg Repeated:1 Location:70
+At 29: 
+At 30: 
+At 31: 
+At 32: 
+At 33: places Repeated:1 Location:463
+At 34: 
+At 35: 
+At 36: 
+At 37: 
+At 38: brother Repeated:1 Location:71
+At 39: opposite Repeated:1 Location:69
+At 40: 
+At 41: 
+At 42: nothing Repeated:1 Location:493whether Repeated:2 Location:234
+At 43: 
+At 44: 
+At 45: 
+At 46: pigiron Repeated:1 Location:168peoples Repeated:1 Location:142
+At 47: 
+At 48: chief Repeated:1 Location:369
+At 49: rubble Repeated:1 Location:460police Repeated:3 Location:138
+At 50: 
+At 51: 
+At 52: again Repeated:1 Location:130
+At 53: larger Repeated:1 Location:470
+At 54: swirled Repeated:1 Location:448towered Repeated:1 Location:348
+At 55: 
+At 56: 
+At 57: flight Repeated:1 Location:134looked Repeated:2 Location:8
+At 58: plaster Repeated:1 Location:446
+At 59: 
+At 60: 
+At 61: 
+At 62: 
+At 63: chickenhouses Repeated:1 Location:483
+At 64: 
+At 65: 
+At 66: knowing Repeated:1 Location:233outside Repeated:1 Location:0
+At 67: 
+At 68: heard Repeated:1 Location:225field Repeated:1 Location:210
+At 69: 
+At 70: curving Repeated:1 Location:133spirals Repeated:1 Location:25
+At 71: 
+At 72: place Repeated:1 Location:345being Repeated:1 Location:237
+At 73: baulks Repeated:1 Location:418single Repeated:1 Location:106
+At 74: 
+At 75: 
+At 76: 
+At 77: timber Repeated:1 Location:420wanted Repeated:1 Location:283
+At 78: however Repeated:1 Location:149
+At 79: 
+At 80: 
+At 81: 
+At 82: instant Repeated:1 Location:123through Repeated:1 Location:2
+At 83: 
+At 84: habit Repeated:1 Location:293
+At 85: sordid Repeated:1 Location:477shored Repeated:1 Location:415
+At 86: squeeze Repeated:1 Location:387whisper Repeated:1 Location:195
+At 87: ministry Repeated:1 Location:341
+At 88: 
+At 89: 
+At 90: thought Repeated:3 Location:152
+At 91: 
+At 92: 
+At 93: itself Repeated:1 Location:374
+At 94: 
+At 95: 
+At 96: gazed Repeated:1 Location:56
+At 97: conceivable Repeated:1 Location:263plaque Repeated:1 Location:216
+At 98: patrols Repeated:1 Location:145
+At 99: face Repeated:1 Location:55
+At 100: overfulfilment Repeated:1 Location:171
+At 101: except Repeated:2 Location:309corner Repeated:2 Location:61except Repeated:1 Location:46
+At 102: 
+At 103: 
+At 104: above Repeated:2 Location:188
+At 105: london Repeated:2 Location:368
+At 106: rotting Repeated:1 Location:410
+At 107: back Repeated:3 Location:157
+At 108: 
+At 109: series Repeated:1 Location:500
+At 110: 
+At 111: winstons Repeated:2 Location:85
+At 112: 
+At 113: wooden Repeated:1 Location:480
+At 114: 
+At 115: 
+At 116: patch Repeated:1 Location:471
+At 117: matter Repeated:1 Location:148
+At 118: 
+At 119: populous Repeated:1 Location:378
+At 120: heaps Repeated:1 Location:458safer Repeated:1 Location:325
+At 121: little Repeated:1 Location:14
+At 122: windows Repeated:2 Location:143
+At 123: 
+At 124: 
+At 125: should Repeated:1 Location:393though Repeated:2 Location:27
+At 126: 
+At 127: 
+At 128: bombs Repeated:1 Location:466metal Repeated:1 Location:215which Repeated:1 Location:213
+At 129: moment Repeated:1 Location:242
+At 130: 
+At 131: made Repeated:2 Location:187
+At 132: 
+At 133: always Repeated:2 Location:399course Repeated:1 Location:229
+At 134: 
+At 135: 
+At 136: 
+At 137: turned Repeated:1 Location:319patrol Repeated:1 Location:139
+At 138: 
+At 139: 
+At 140: voice Repeated:1 Location:159harsh Repeated:1 Location:36
+At 141: within Repeated:1 Location:208
+At 142: posters Repeated:1 Location:48
+At 143: been Repeated:1 Location:400
+At 144: could Repeated:3 Location:219
+At 145: colour Repeated:1 Location:43
+At 146: 
+At 147: 
+At 148: there Repeated:1 Location:473sides Repeated:1 Location:414there Repeated:1 Location:405tried Repeated:1 Location:385vague Repeated:1 Location:363there Repeated:1 Location:226level Repeated:1 Location:190there Repeated:2 Location:38paper Repeated:1 Location:23
+At 149: 
+At 150: winston Repeated:2 Location:186
+At 151: 
+At 152: these Repeated:1 Location:407given Repeated:1 Location:241while Repeated:1 Location:78
+At 153: 
+At 154: 
+At 155: 
+At 156: 
+At 157: houses Repeated:1 Location:412street Repeated:1 Location:13
+At 158: 
+At 159: deep Repeated:1 Location:83
+At 160: where Repeated:2 Location:444third Repeated:1 Location:376about Repeated:1 Location:167
+At 161: vision Repeated:1 Location:212
+At 162: 
+At 163: ýn Repeated:1 Location:109
+At 164: their Repeated:4 Location:413often Repeated:1 Location:244
+At 165: memory Repeated:1 Location:391
+At 166: 
+At 167: 
+At 168: 
+At 169: vistas Repeated:1 Location:408
+At 170: 
+At 171: said Repeated:1 Location:77
+At 172: 
+At 173: 
+At 174: 
+At 175: dark Repeated:1 Location:80cold Repeated:1 Location:9
+At 176: 
+At 177: 
+At 178: 
+At 179: 
+At 180: 
+At 181: poster Repeated:1 Location:91
+At 182: 
+At 183: ýs Repeated:1 Location:72
+At 184: white Repeated:1 Location:351ninth Repeated:1 Location:174
+At 185: 
+At 186: 
+At 187: like Repeated:2 Location:402ýt Repeated:3 Location:135like Repeated:1 Location:124
+At 188: 
+At 189: sprung Repeated:1 Location:475
+At 190: 
+At 191: 
+At 192: walls Repeated:1 Location:435
+At 193: 
+At 194: 
+At 195: 
+At 196: 
+At 197: immediately Repeated:1 Location:68
+At 198: 
+At 199: blue Repeated:1 Location:37
+At 200: 
+At 201: 
+At 202: 
+At 203: 
+At 204: 
+At 205: 
+At 206: had Repeated:4 Location:286
+At 207: 
+At 208: 
+At 209: 
+At 210: 
+At 211: seen Repeated:1 Location:221plan Repeated:1 Location:176
+At 212: sites Repeated:1 Location:443quite Repeated:1 Location:401grimy Repeated:1 Location:354simultaneously Repeated:1 Location:182still Repeated:1 Location:164world Repeated:1 Location:7
+At 213: system Repeated:1 Location:248
+At 214: 
+At 215: rate Repeated:1 Location:274
+At 216: crazy Repeated:1 Location:433roofs Repeated:1 Location:428sound Repeated:2 Location:184roofs Repeated:1 Location:119
+At 217: 
+At 218: 
+At 219: 
+At 220: watchýng Repeated:1 Location:73commanding Repeated:1 Location:60
+At 221: 
+At 222: did Repeated:2 Location:146
+At 223: even Repeated:3 Location:1
+At 224: every Repeated:2 Location:302would Repeated:1 Location:196every Repeated:1 Location:59
+At 225: mostly Repeated:1 Location:509
+At 226: can Repeated:1 Location:334
+At 227: cardboard Repeated:1 Location:425time Repeated:1 Location:270
+At 228: 
+At 229: 
+At 230: and Repeated:15 Location:21
+At 231: live Repeated:2 Location:288long Repeated:1 Location:204
+At 232: background Repeated:1 Location:507
+At 233: 
+At 234: 
+At 235: tell Repeated:1 Location:394that Repeated:6 Location:49
+At 236: 
+At 237: 
+At 238: 
+At 239: away Repeated:3 Location:129wind Repeated:2 Location:17
+At 240: 
+At 241: 
+At 242: 
+At 243: were Repeated:4 Location:18
+At 244: 
+At 245: 
+At 246: 
+At 247: some Repeated:1 Location:389well Repeated:1 Location:329kept Repeated:1 Location:316from Repeated:1 Location:292what Repeated:1 Location:247well Repeated:1 Location:223from Repeated:2 Location:58
+At 248: 
+At 249: 
+At 250: 
+At 251: knew Repeated:1 Location:330commanded Repeated:1 Location:217
+At 252: 
+At 253: 
+At 254: all Repeated:2 Location:268far Repeated:1 Location:111
+At 255: eyes Repeated:1 Location:81
+At 256: 
+At 257: 
+At 258: 
+At 259: wire Repeated:2 Location:257
+At 260: 
+At 261: 
+At 262: 
+At 263: iron Repeated:1 Location:431this Repeated:3 Location:356landscape Repeated:1 Location:355plug Repeated:1 Location:277down Repeated:4 Location:10
+At 264: 
+At 265: alternately Repeated:1 Location:101
+At 266: air Repeated:1 Location:451
+At 267: city Repeated:1 Location:370
+At 268: individual Repeated:1 Location:256
+At 269: 
+At 270: 
+At 271: they Repeated:3 Location:265into Repeated:3 Location:24
+At 272: truth Repeated:1 Location:343telescreen Repeated:3 Location:162
+At 273: 
+At 274: him Repeated:1 Location:395babbling Repeated:1 Location:165
+At 275: childhood Repeated:2 Location:390
+At 276: 
+At 277: 
+At 278: 
+At 279: over Repeated:1 Location:456with Repeated:5 Location:131word Repeated:1 Location:107
+At 280: 
+At 281: 
+At 282: 
+At 283: 
+At 284: 
+At 285: blackmoustachiod Repeated:1 Location:54
+At 286: the Repeated:40 Location:3
+At 287: vast Repeated:1 Location:349
+At 288: 
+At 289: 
+At 290: one Repeated:3 Location:64
+At 291: 
+At 292: helicopter Repeated:1 Location:114
+At 293: 
+At 294: 
+At 295: dust Repeated:2 Location:20
+At 296: corrugated Repeated:1 Location:430
+At 297: be Repeated:4 Location:41
+At 298: his Repeated:3 Location:317
+At 299: 
+At 300: 
+At 301: 
+At 302: 
+At 303: only Repeated:1 Location:150
+At 304: bluebottle Repeated:1 Location:126
+At 305: transmitted Repeated:1 Location:181streetlevel Repeated:1 Location:89
+At 306: 
+At 307: most Repeated:1 Location:377work Repeated:1 Location:347torn Repeated:2 Location:22
+At 308: 
+At 309: 
+At 310: for Repeated:1 Location:121
+At 311: shut Repeated:1 Location:4
+At 312: directions Repeated:1 Location:439
+At 313: 
+At 314: any Repeated:4 Location:183
+At 315: 
+At 316: 
+At 317: 
+At 318: 
+At 319: very Repeated:1 Location:193
+At 320: 
+At 321: he Repeated:6 Location:206
+At 322: 
+At 323: 
+At 324: 
+At 325: scrutinized Repeated:1 Location:314
+At 326: was Repeated:1 Location:486but Repeated:1 Location:484was Repeated:3 Location:306but Repeated:1 Location:271was Repeated:7 Location:30
+At 327: sort Repeated:1 Location:361
+At 328: 
+At 329: an Repeated:1 Location:122
+At 330: 
+At 331: 
+At 332: 
+At 333: 
+At 334: use Repeated:1 Location:488
+At 335: straggled Repeated:1 Location:455revealing Repeated:1 Location:336
+At 336: 
+At 337: 
+At 338: how Repeated:1 Location:243
+At 339: 
+At 340: 
+At 341: 
+At 342: 
+At 343: 
+At 344: windowpane Repeated:1 Location:5
+At 345: 
+At 346: 
+At 347: overheard Repeated:1 Location:307
+At 348: 
+At 349: as Repeated:4 Location:205
+At 350: not Repeated:1 Location:491way Repeated:1 Location:231not Repeated:1 Location:147
+At 351: 
+At 352: 
+At 353: of Repeated:12 Location:342at Repeated:2 Location:239of Repeated:5 Location:172at Repeated:2 Location:88of Repeated:1 Location:16
+At 354: remained Repeated:2 Location:207low Repeated:1 Location:194
+At 355: your Repeated:1 Location:279
+At 356: willowherb Repeated:1 Location:454
+At 357: 
+At 358: 
+At 359: 
+At 360: uncovering Repeated:1 Location:104
+At 361: in Repeated:9 Location:11
+At 362: received Repeated:1 Location:179own Repeated:1 Location:86
+At 363: plastered Repeated:1 Location:51
+At 364: 
+At 365: 
+At 366: 
+At 367: 
+At 368: 
+At 369: 
+At 370: sun Repeated:1 Location:29
+At 371: 
+At 372: 
+At 373: 
+At 374: sky Repeated:1 Location:34
+At 375: 
+At 376: 
+At 377: by Repeated:1 Location:200
+At 378: out Repeated:1 Location:388distance Repeated:1 Location:112ýngsoc Repeated:1 Location:108
+At 379: 
+At 380: 
+At 381: 
+At 382: 
+At 383: brightlit Repeated:1 Location:502dwellings Repeated:1 Location:481threeyear Repeated:1 Location:175
+At 384: everywhere Repeated:1 Location:52
+At 385: no Repeated:2 Location:487it Repeated:1 Location:485cleared Repeated:1 Location:468oceania Repeated:1 Location:383on Repeated:2 Location:246no Repeated:1 Location:230it Repeated:1 Location:201on Repeated:1 Location:65no Repeated:1 Location:42
+At 386: 
+At 387: 
+At 388: a Repeated:10 Location:35
+At 389: 
+At 390: 
+At 391: 
+At 392: 
+At 393: 
+At 394: remember Repeated:1 Location:492
+At 395: occurring Repeated:1 Location:504kilometre Repeated:1 Location:338
+At 396: 
+At 397: 
+At 398: you Repeated:4 Location:74
+At 399: 
+At 400: 
+At 401: or Repeated:1 Location:245
+At 402: 
+At 403: 
+At 404: 
+At 405: so Repeated:1 Location:203
+At 406: 
+At 407: 
+At 408: 
+At 409: to Repeated:5 Location:40
+At 410: 
+At 411: 
+At 412: housefront Repeated:1 Location:67
+At 413: 
+At 414: 
+At 415: 
+At 416: 
+At 417: up Repeated:3 Location:199
+At 418: 
+At 419: 
+At 420: 
+At 421: patched Repeated:1 Location:423
+At 422: tableaux Repeated:1 Location:503nineteenthcentury Repeated:1 Location:411mattered Repeated:1 Location:154
+At 423: 
+At 424: became Repeated:1 Location:295
+At 425: 
+At 426: 
+At 427: 
+At 428: 
+At 429: 
+At 430: 
+At 431: 
+At 432: 
+At 433: flapped Repeated:1 Location:96
+At 434: 
+At 435: 
+At 436: assumption Repeated:1 Location:300
+At 437: 
+At 438: 
+At 439: 
+At 440: 
+At 441: 
+At 442: darkness Repeated:1 Location:311
+At 443: 
+At 444: 
+At 445: 
+At 446: colonies Repeated:1 Location:478
+At 447: provinces Repeated:1 Location:381everybody Repeated:1 Location:267
+At 448: 
+At 449: sagging Repeated:1 Location:436watched Repeated:2 Location:238
+At 450: covering Repeated:1 Location:102
+At 451: 
+At 452: 
+At 453: 
+At 454: 
+At 455: 
+At 456: 
+At 457: 
+At 458: 
+At 459: 
+At 460: 
+At 461: 
+At 462: 
+At 463: 
+At 464: 
+At 465: 
+At 466: distaste Repeated:1 Location:364
+At 467: 
+At 468: 
+At 469: 
+At 470: anything Repeated:1 Location:45
+At 471: 
+At 472: bombed Repeated:1 Location:442
+At 473: 
+At 474: 
+At 475: 
+At 476: behind Repeated:1 Location:155
+At 477: against Repeated:1 Location:505
+At 478: whenever Repeated:1 Location:281whirling Repeated:1 Location:19
+At 479: 
+At 480: 
+At 481: plugged Repeated:1 Location:252
+At 482: 
+At 483: 
+At 484: 
+At 485: 
+At 486: 
+At 487: 
+At 488: 
+At 489: between Repeated:1 Location:117skimmed Repeated:1 Location:115
+At 490: 
+At 491: unintelligible Repeated:1 Location:510
+At 492: eddies Repeated:1 Location:15
+At 493: 
+At 494: 
+At 495: 
+At 496: 
+At 497: 
+At 498: 
